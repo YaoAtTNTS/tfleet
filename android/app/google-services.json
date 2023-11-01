@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "1062546271171",
+    "project_id": "tnts-project",
+    "storage_bucket": "tnts-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062546271171:android:f4b672d87040da1939eb76",
+        "android_client_info": {
+          "package_name": "com.example.intercomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLWxEq1GukmLz70XJkiu-XxVX2feDBYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062546271171-jllk08dfn38fk7derboukfvuucr3irhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sg.com.chitson.chitson"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062546271171:android:8d8ea061cd2e111439eb76",
+        "android_client_info": {
+          "package_name": "com.xiongyao.funchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLWxEq1GukmLz70XJkiu-XxVX2feDBYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062546271171-jllk08dfn38fk7derboukfvuucr3irhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sg.com.chitson.chitson"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062546271171:android:5e3e949adc9b462f39eb76",
+        "android_client_info": {
+          "package_name": "sg.com.chuyi.tarim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLWxEq1GukmLz70XJkiu-XxVX2feDBYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062546271171-jllk08dfn38fk7derboukfvuucr3irhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sg.com.chitson.chitson"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062546271171:android:bc632aff05830de539eb76",
+        "android_client_info": {
+          "package_name": "sg.com.xiongyao.getucab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLWxEq1GukmLz70XJkiu-XxVX2feDBYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062546271171-jllk08dfn38fk7derboukfvuucr3irhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sg.com.chitson.chitson"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062546271171:android:5e1e35f21ede760239eb76",
+        "android_client_info": {
+          "package_name": "sg.tnts.apps.tfleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLWxEq1GukmLz70XJkiu-XxVX2feDBYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062546271171-c28gqi9e8ekejdfq30pksopekpp63ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062546271171-jllk08dfn38fk7derboukfvuucr3irhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sg.com.chitson.chitson"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
